@@ -25,7 +25,7 @@ Create a conda environment for data cleaning and install ITALLIC in that environ
 * Create conda environment. 
 
 ```bash
-$ conda create --name DataCleaning python=3.8 -y
+$ conda create --name DataCleaning python=3.8 pandas=1.5.3 -y
 ```
 
 * Activate the environment. 
